@@ -31,7 +31,6 @@ Planning a trip is very necessary to be able to produce a trip that is certainly
    - Storing user data in Cloud Firestore.
 
 ### Documentation Links
-
-- [Machine Learning Documentation](#)
-- [Cloud Computing Documentation](#)
-- [Mobile Development Documentation](#)
+[Machine Learning Documentation](#)
+[Cloud Computing Documentation](https://github.com/rafli-sec/insomers-api-1)
+[Mobile Development Documentation](#)
