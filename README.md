@@ -1,16 +1,15 @@
-# JENTARA: Jelajah Nusantara
 
-**Team ID**: C241-PS043
+Team ID : C242 PS331
 
-| Bangkit ID       | Name                          | Path               |
-|-------------------|-------------------------------|--------------------|
-| M200D4KY1375      | Aldebaran Paulus Joseph       | Machine Learning   |
-| M208D4KY2574      | Al Ridho                      | Machine Learning   |
-| M200D4KY1375      | Delvin Nuryadi                | Machine Learning   |
-| M200D4KY1375      | Al Gibran Sharma Devara       | Cloud Computing    |
-| M200D4KY1375      | Fathiya Syifa Firdausya       | Cloud Computing    |
-| M200D4KY1375      | Iwan Lasro Arjuna            | Mobile Development |
-| M200D4KY1375      | Muhammad Naziev Ash'Saviq    | Mobile Development |
+| Bangkit ID       | Name                            | Path               |
+|-------------------|--------------------------------|--------------------|
+| M206B4KY2241      | La Ode Muhammad Maulidin       | Machine Learning   |
+| M227B4KX0734      | Aura Tesalonika Hendriardani   | Machine Learning   |
+| M200D4KY1375      | Risma Dwi Anggraini            | Machine Learning   |
+| C718B4KY2614      | Muh. Rafli Diga                | Cloud Computing    |
+| C278B4KX3413      | Nur Asizah Algi Asrifah Imran  | Cloud Computing    |
+| A718B4KY1892      | Ibnu Salim                     | Mobile Development |
+| A718B4KX1190      | Duwi Nurmayanti                | Mobile Development |
 
 Planning a trip is very necessary to be able to produce a trip that is certainly as expected and enjoyable. The obstacles that are often experienced by tourists when planning a tour are the difficulty of finding complete detailed information on the same platform, lack of information, and the need to estimate the time and distance from one location to another. **Jentara** aims to solve this challenge by using data from tourist attractions obtained through scraping, the internet, and Google Maps API. For example, users select their travel preferences and then the application generates the best travel spot recommendations based on user preferences.
 
