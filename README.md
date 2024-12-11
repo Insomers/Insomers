@@ -16,7 +16,7 @@ Planning a trip is
 ### Project Features
 
 1. **Machine Learning**:
-   - Creating a sentiment analysis model that predicts ratings based on tourism place reviews.
+   - Cre
    
 2. **Mobile Development**:
    - Create a base layout for the Jentara APK, starting from UI until the logic behind it.
