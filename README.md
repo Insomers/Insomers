@@ -20,14 +20,13 @@ Planning a trip is
 
    
 2. **Mobile Development**:
-   - Create a base layout for the Jentara APK, starting from UI until the logic behind it.
+   -  Using a trained machine learning model to analyze data or detect insomnia, the model is integrated into an application using TensorFlow Lite to provide results based on survey inputs and offer related diagnoses and recommendations. The user interface (UI) is designed to be user-friendly, 	incorporating elements like a clock fetched from an API, along with features to display sleep history records and several other functionalities.
+
  
 
 3. **Cloud Computing**:
-   - Creating an API for authentication 
-   - Implementing optimal routes, search d, 
-   - Deploying both auth-api using App Engine
-   - Storing user data in Cloud Storage.
+   - Using Express.js and Cloud MySQL as a database in App Engine. This application has endpoints for login, viewing profile, and displaying the current time. By using Express.js, the application can be run easily and efficiently. Cloud MySQL is used as a database to store user data. This application can also be integrated with other services such as authentication and authorization. Thus, the application can become safer and more secure. In addition, this application can also be deployed to App Engine easily, so that it can be accessed by users from anywhere.
+
 
 ### Documentation Links
 - [Machine Learning Documentation](#)
