@@ -16,7 +16,8 @@ Planning a trip is
 ### Project Features
 
 1. **Machine Learning**:
-   - Cre
+   - Machine Learning: Building a Deep Neural Network (DNN) model using TensorFlow to predict insomnia based on survey data. The process included cleaning and preprocessing data, such as handling missing values, normalizing features, and encoding categorical variables. The model was trained with multiple layers using ReLU activation and dropout for regularization, optimized with the SGD optimizer, and validated to prevent overfitting. After tuning hyperparameters for better accuracy, the final model was converted into TensorFlow Lite (TFLite) format with metadata, making it lightweight and ready for deployment on mobile devices.
+
    
 2. **Mobile Development**:
    - Create a base layout for the Jentara APK, starting from UI until the logic behind it.
