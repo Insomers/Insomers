@@ -31,5 +31,5 @@ Planning a trip is
 
 ### Documentation Links
 - [Machine Learning Documentation](#)
-- [Cloud Computing Documentation](https://github.com/rafli-sec/insomers-api-1)
+- [Cloud Computing Documentation](https://github.com/Insomers/insomers-api.git)
 - [Mobile Development Documentation](https://github.com/Insomers/insomers-app.git)
