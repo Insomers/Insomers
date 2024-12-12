@@ -1,3 +1,4 @@
+**INSOMERS: "Analyze, Adapt, and Sleep Better."**
 
 Team ID : C242 PS331
 
@@ -30,5 +31,5 @@ Planning a trip is
 
 ### Documentation Links
 - [Machine Learning Documentation](https://github.com/auratesalonika/Insomers)
-- [Cloud Computing Documentation](https://github.com/rafli-sec/insomers-api-1)
+- [Cloud Computing Documentation](https://github.com/Insomers/insomers-api.git)
 - [Mobile Development Documentation](https://github.com/Insomers/insomers-app.git)
